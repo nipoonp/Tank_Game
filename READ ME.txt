@@ -1,0 +1,27 @@
+First start up eclipse on both computers (client and server) and follow the tutorial given if not sure how to import project into eclipse.
+Import only the JAVA CODES, Python may be used in a text editor to run.
+
+
+THEN go on the CLIENT PYTHON CODE and change IP addresses.
+
+Firstly, go on line 38 and type in YOUR IP address.(ie the slave IP address)
+Next, go on line 629 and replce ip with YOUR IP (ie the slave IP address)
+GO to line 707 and type in the other computers IP address (ie the master ip address)
+GO to line 755 and replace IP with other computers IP address (ie the master ip address)
+GO to line 839 and replace IP with other computers IP address (ie the master ip address)
+YOU may keep the ports the same, or choose to change them.
+
+The master python code should not need to do any altering, as it get the IP adress of master and slave automatically.
+
+
+STEPS:
+Now first run the master python code, log in
+next run slave python code, log in
+from master send challenge to slave
+make slave accept challenge, from view challenges
+make slave open up java slave game
+now make master open up java master game
+
+
+
+
